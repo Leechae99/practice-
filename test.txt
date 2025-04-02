@@ -1,1 +1,1 @@
-test 수정하기 jane 에서 
+test 수정하기 jane 에서 + john 에서 다시 수정했음
